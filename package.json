@@ -1,0 +1,12 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "demo design patterns",
+  "main": "null",
+  "author": "Warren",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
