@@ -6,6 +6,7 @@ services:
       context: .
       args:
         - NODE_ENV=development
+    image: design-patterns-note
     volumes:
       - .:/opt/node_app/app
       - ./package.json:/opt/node_app/package.json

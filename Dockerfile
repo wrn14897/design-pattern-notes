@@ -1,4 +1,4 @@
-FROM node:14-slim
+FROM node:16-alpine
 
 RUN mkdir /opt/node_app && chown node:node /opt/node_app
 WORKDIR /opt/node_app
